@@ -136,6 +136,17 @@ Tasks:
 - Recommendations and conclusion
 - Compiled final report
 
+- 
+## Division of Work Among Group Members
+
+| Person | Responsibilities | Official Task(s) |
+|---|---|---|
+| Person 1 | Problem Identification and Literature Review | Tasks 1 and 2 |
+| Person 2 | Dataset Collection and Preparation | Task 3 |
+| Person 3 | Sequence Model Development and Training | Task 4 |
+| Person 4 | Evaluation, Result Analysis, Recommendations, and Conclusion | Tasks 5, 6, and 7 |
+
+
 ## 5. Project Requirements
 
 The completed project should include the following components:
