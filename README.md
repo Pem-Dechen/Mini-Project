@@ -1,7 +1,7 @@
 # MLA307 Sequence Models – Mini Project
 
 **Course:** MLA307 – Sequence Models  
-**Programme:** Year 2, Semester I  
+**Programme:** Year 3, Semester I  
 **Assessment:** Mini Project (20%)  
 **Project Type:** Business Intelligence Using Sequence Models
 
